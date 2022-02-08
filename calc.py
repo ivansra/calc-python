@@ -1,0 +1,8 @@
+print(f'igrese un numero: ')
+a = int(input())
+print(f'igrese otro numero:')
+b = int(input())
+print(f'la suma de {a} y {b} = {a + b}') 
+print(f'la multiplicasion entre {a} y {b} = {a * b}')
+print(f'la resta entre {a} y {b} = {a * b}')
+print(f'la division entre {a} y {b} = {a / b}')
